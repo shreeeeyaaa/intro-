@@ -1,0 +1,31 @@
+Name          : Shreya Srivastava
+Date of Birth : 3rd July, 1998
+Email         : s07shreya03@gmail.com
+Education     :
+  
+   High School (2014) :
+   City Montessori School, Lucknow with 91.4% 
+
+   Intermediate (2016):
+   City Montessori School, Lucknow with 88.4%
+
+   Graduation (2016-2020):
+   Vardhaman College of Engineering, Hyderabad, majoring in Computer Science Engineering. Current GPA 8.4.
+
+Experiences :  
+   
+   Volunteering :
+   Student Coordinator, stuMagz Hyderabad. (2017 to Present)
+   Student Coordinator, TiE. (2018 to Present)
+   IEEE SS'12 (June, 2017)
+   
+
+Certifications :
+   Python for Data Science
+   Business English Certificate with a score of 175
+   
+Accomplishments :
+   Co-founder of UtorAI (https://www.utorai.com/)
+   One of the top 40 finalists at National Start-Up Summit held at IISF 2017
+   First Runner Up at IEEE SS'12
+
